@@ -1,0 +1,20 @@
+divisi 1
+jabatan 1,2,3
+
+divisi 2
+jabatan 4,5
+
+divisi 3
+jabatan 6,7
+
+divisi 4
+jabatan 8,9,10
+
+divisi 5
+jabatan 11,12
+
+Divisi 6
+jabatan 13,14,15
+
+divisi 7
+jabatan 16,17
